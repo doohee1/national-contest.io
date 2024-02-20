@@ -1,5 +1,3 @@
-# Kokoa Clone 2023
+national-contest.io
 
-by xeunxxee
-
-HTML & CSS are so much fun with Doohee, Jun and Yongwoo!!
+html
